@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Web or App Development**
 
-- 🌱 I’m currently learning **React,Native Android Framework**
+- 🌱 I’m currently learning **React, Native Android Framework**
 
 - 👯 I’m looking to collaborate on **any App development or Web Development project**
 
