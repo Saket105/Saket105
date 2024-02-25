@@ -4,17 +4,9 @@
 <h3>I am Saket Kumar a Seasoned Full Stack Developer with 1.5 years of expertise in crafting robust applications. Proficient in Java, JavaScript, TypeScript, Spring Boot, JPA, and GRPC, with a mastery of Angular and JUnit for seamless front-end experiences. Adept in orchestrating deployments with Openshift and Tanzu, ensuring efficient and scalable solutions. Proven track record as a tech virtuoso, contributing to the success of diverse projects. Ready to elevate your team with a dynamic skill set, marrying innovation with reliability. Let's transform challenges into triumphs and propel your projects to new heights together!</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working as a **FullStack Web Developer**
 
-- 🌱 I’m currently learning **React, Native Android Framework**
-
-- 👯 I’m looking to collaborate on **any App development or Web Development project**
-
-- 💬 Ask me about **Android , MERN**
-
-
-
-
+- 💬 Ask me about **Angular, SpringBoot, Microservices, Java, PostgreSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
