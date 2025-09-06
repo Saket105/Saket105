@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working as a **FullStack Web Developer**
 
-- 💬 Ask me about **Angular, SpringBoot, Microservices, Java, PostgreSQL**
+- 💬 Ask me about **Java, PostgreSQL, SpringBoot, CoreJava, JPA, Hibernate, MongoDB, OOPs, SpringSecurity, JWT, JUNIT, Cucumber, SonarQube, Jenkins, GitHub, Mockito, Microservices, SDLC, Agile Methodology, Waterfall Model, Jira, DSA**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
